@@ -37,6 +37,8 @@ img{
     .row{
         flex-direction: column;
         height: auto;
+        background: #991818;
+        border: 5px solid rgb(192, 15, 68);
     }
     .another-box{
         grid-template-columns: 1fr;
